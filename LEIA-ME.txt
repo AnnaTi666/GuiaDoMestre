@@ -1,17 +1,26 @@
-CENTRAL DO MESTRE — POKÉMON: REGIÃO DE KAMIDO
+POKÉMON: REGIÃO DE KAMIDO — CENTRAL DO MESTRE
 
-Arquivos:
-- index.html: estrutura da página.
-- style.css: aparência e caixas de seleção das regiões.
-- script.js: geradores e listas regionais de Pokémon.
+ARQUIVOS
+- index.html: página principal
+- style.css: aparência e estilos
+- script.js: geradores e regras
 
-Como usar:
+COMO ABRIR
 1. Extraia todos os arquivos para a mesma pasta.
 2. Abra index.html no navegador.
-3. Na configuração da campanha, marque uma ou mais regiões.
-4. As regiões selecionadas filtram somente o botão "Encontro selvagem".
-   Os Pokémon dos times de treinadores e líderes de ginásio não são filtrados.
-5. "Todas" marca todas as regiões. "Nenhuma" desmarca tudo; sem regiões marcadas,
-   o gerador selvagem usa todos os Pokémon disponíveis.
+3. Na seção Configuração da campanha, marque uma ou mais regiões.
+4. Clique em Encontro selvagem. As regiões selecionadas filtram somente os Pokémon selvagens.
 
-Os retratos aleatórios de anime continuam dependendo de conexão com a internet.
+REGIÕES
+🌊 Aquaria — Água
+❄️ Borealis — Gelo
+🪽 Caelus — Voador
+🔥 Ignis — Fogo
+🌿 Kamido — Normal
+🪨 Solara — Pedra
+🌳 Sylva — Planta
+👻 Umbra — Fantasma
+⚡ Zenith — Elétrico
+
+Os geradores de Treinador e Líder de Ginásio não usam o filtro de regiões.
+É possível marcar várias regiões. Os botões Todas e Nenhuma controlam a seleção.
