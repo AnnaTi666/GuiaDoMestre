@@ -1,0 +1,17 @@
+CENTRAL DO MESTRE — POKÉMON: REGIÃO DE KAMIDO
+
+Arquivos:
+- index.html: estrutura da página.
+- style.css: aparência e caixas de seleção das regiões.
+- script.js: geradores e listas regionais de Pokémon.
+
+Como usar:
+1. Extraia todos os arquivos para a mesma pasta.
+2. Abra index.html no navegador.
+3. Na configuração da campanha, marque uma ou mais regiões.
+4. As regiões selecionadas filtram somente o botão "Encontro selvagem".
+   Os Pokémon dos times de treinadores e líderes de ginásio não são filtrados.
+5. "Todas" marca todas as regiões. "Nenhuma" desmarca tudo; sem regiões marcadas,
+   o gerador selvagem usa todos os Pokémon disponíveis.
+
+Os retratos aleatórios de anime continuam dependendo de conexão com a internet.
